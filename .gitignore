@@ -39,3 +39,5 @@ Thumbs.db
 # Ignore node_modules file #
 ############################
 node_modules/
+bin/
+obj/
