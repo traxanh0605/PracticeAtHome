@@ -41,6 +41,7 @@ Thumbs.db
 node_modules/
 bin/
 obj/
-/.vs
-wwwroot/
 /.vs/
+**/.vs/
+
+
